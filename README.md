@@ -1,3 +1,3 @@
 # Currency Converter 
-Currency converter simple program that converts currencies based on real-time prices untilzing Google Search engine Results.
-Implemented useing beutifualSoup and requests to fetch the data. 
+A simple program that converts currencies based on real-time prices untilzing Google Search engine Results.
+Implemented useing beautifulsoup and requests to fetch the data. 
